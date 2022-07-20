@@ -58,6 +58,17 @@ button, .calltoaction {
     color: #e5e7eb;
 }
 
+button {
+    padding: 4px 24px;
+    border-radius: 8px;
+    border-color: #e5e7eb;
+    border-style: solid;
+}
+
+.hero button {
+    border: 0;
+}
+
 .info h1 {
     font-size: 36px;
     font-weight: 900;
