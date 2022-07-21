@@ -41,16 +41,14 @@ body {
 
 .intro {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
+    justify-content: space-between;
     gap: 32px;
     padding: 32px 0;
 }
 
 .intro img {
-    width: auto;
-    height: auto;
-    max-height: 40%;
-    max-width: 50%;
+    max-width: 520px;
 }
 
 
