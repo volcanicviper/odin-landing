@@ -133,17 +133,25 @@ button {
     font-size: 36px;
     font-style: italic; 
     font-weight: lighter;
-    padding: 0;
 }
 
 .quote p {
     font-weight: bold;
 }
 
+h1 {
+    margin: 0;
+}
+
 .calltoaction {
     display: flex;
-    justify-content: center;
-    margin: 100px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 120px;
+    padding: 24px 64px;
+    border-radius: 8px;
+    border-color: #3882f6;
+    border-style: solid;
 }
 
 .footer {
